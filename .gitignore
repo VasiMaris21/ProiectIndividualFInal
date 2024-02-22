@@ -14,11 +14,6 @@ build/
 .settings/
 bin/
 
-# IntelliJ IDEA
-../p3-proiect-ir-sg4-bumbuc221/.idea/
-*.iml
-*.iws
-*.ipr
 
 # BlueJ files
 *.ctxt
