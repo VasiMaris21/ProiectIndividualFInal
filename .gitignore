@@ -7,12 +7,6 @@
 .gradle/
 build/
 
-# Eclipse
-.classpath
-.project
-.settings/
-bin/
-
 
 # BlueJ files
 *.ctxt
